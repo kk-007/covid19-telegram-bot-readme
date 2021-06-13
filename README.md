@@ -1,6 +1,6 @@
 # covid19-telegram-bot
 
-- This is Telegram BOT to get covid19 cases statistics location wise for india
+- This is Telegram BOT to get covid19 cases statistics location wise for India
 
 
 ### Prerequisites
